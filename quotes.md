@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "The way to get started is to quit talking and begin doing." - Walt Disney
 
 ## Quote History
 
