@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "It does not matter how slowly you go as long as you do not stop." - Confucius
+> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Quote History
 
