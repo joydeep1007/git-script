@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Believe you can and you're halfway there." - Theodore Roosevelt
+> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 
 ## Quote History
 
