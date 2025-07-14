@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+> - "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 
 ## Quote History
 
