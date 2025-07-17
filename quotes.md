@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "It does not matter how slowly you go as long as you do not stop." - Confucius
+> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 
 ## Quote History
 
