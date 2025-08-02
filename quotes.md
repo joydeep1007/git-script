@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "It does not matter how slowly you go as long as you do not stop." - Confucius
+> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
 
 ## Quote History
 
