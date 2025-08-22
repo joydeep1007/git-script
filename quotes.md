@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
+> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 
 ## Quote History
 
