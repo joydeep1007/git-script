@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Quote History
 
