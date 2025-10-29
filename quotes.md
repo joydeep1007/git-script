@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
 ## Quote History
 
