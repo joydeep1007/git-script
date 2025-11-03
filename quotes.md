@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> - "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+> "Believe you can and you're halfway there." - Theodore Roosevelt
 
 ## Quote History
 
