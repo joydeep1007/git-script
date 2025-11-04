@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Believe you can and you're halfway there." - Theodore Roosevelt
+> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Quote History
 
