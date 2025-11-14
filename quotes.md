@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+> - "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 
 ## Quote History
 
