@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "What you get by achieving your goals is not as important as what you become by achieving your goals." - Zig Ziglar
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 
 ## Quote History
 
