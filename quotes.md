@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> - "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
 
 ## Quote History
 
