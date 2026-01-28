@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "What you get by achieving your goals is not as important as what you become by achieving your goals." - Zig Ziglar
+> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Quote History
 
