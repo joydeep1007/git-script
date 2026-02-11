@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+> "The way to get started is to quit talking and begin doing." - Walt Disney
 
 ## Quote History
 
