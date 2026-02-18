@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
+> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Quote History
 
