@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "Believe you can and you're halfway there." - Theodore Roosevelt
 
 ## Quote History
 
