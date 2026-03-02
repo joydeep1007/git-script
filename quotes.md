@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> "It does not matter how slowly you go as long as you do not stop." - Confucius
 
 ## Quote History
 
