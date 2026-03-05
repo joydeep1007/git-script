@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> - "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 
 ## Quote History
 
