@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "It does not matter how slowly you go as long as you do not stop." - Confucius
+> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
 ## Quote History
 
