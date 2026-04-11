@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
+> "Believe you can and you're halfway there." - Theodore Roosevelt
 
 ## Quote History
 
