@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+> "The way to get started is to quit talking and begin doing." - Walt Disney
 
 ## Quote History
 
