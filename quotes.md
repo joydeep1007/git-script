@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "It does not matter how slowly you go as long as you do not stop." - Confucius
 
 ## Quote History
 
