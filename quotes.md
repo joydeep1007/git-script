@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 
 ## Quote History
 
