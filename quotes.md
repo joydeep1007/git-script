@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
+> "The way to get started is to quit talking and begin doing." - Walt Disney
 
 ## Quote History
 
