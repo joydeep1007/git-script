@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "What you get by achieving your goals is not as important as what you become by achieving your goals." - Zig Ziglar
+> "The way to get started is to quit talking and begin doing." - Walt Disney
 
 ## Quote History
 
