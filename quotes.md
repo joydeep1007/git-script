@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> - "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 
 ## Quote History
 
