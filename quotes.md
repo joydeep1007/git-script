@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 
 ## Quote History
 
