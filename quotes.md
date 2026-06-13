@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Believe you can and you're halfway there." - Theodore Roosevelt
+> "It does not matter how slowly you go as long as you do not stop." - Confucius
 
 ## Quote History
 
