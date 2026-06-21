@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Quote History
 
