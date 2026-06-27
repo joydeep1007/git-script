@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 
 ## Quote History
 
