@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
 ## Quote History
 
