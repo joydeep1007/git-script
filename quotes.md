@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "What you get by achieving your goals is not as important as what you become by achieving your goals." - Zig Ziglar
+> "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 
 ## Quote History
 
