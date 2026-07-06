@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 
 ## Quote History
 
