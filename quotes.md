@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> "Believe you can and you're halfway there." - Theodore Roosevelt
 
 ## Quote History
 
