@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
+> "What you get by achieving your goals is not as important as what you become by achieving your goals." - Zig Ziglar
 
 ## Quote History
 
