@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Everything you've ever wanted is sitting on the other side of fear." - George Addair
+> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
 ## Quote History
 
