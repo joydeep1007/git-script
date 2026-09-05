@@ -1,7 +1,7 @@
 # Daily Motivational Quote
 
 Today's Quote:
-> "Believe you can and you're halfway there." - Theodore Roosevelt
+> "What you get by achieving your goals is not as important as what you become by achieving your goals." - Zig Ziglar
 
 ## Quote History
 
